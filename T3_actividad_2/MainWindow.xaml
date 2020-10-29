@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:T3_actividad_2"
         mc:Ignorable="d"
-        Title="Equipos NBA" Height="400.209" Width="804.349">
+        Title="Equipos NBA" Height="400.209" Width="804.349" Icon="nba.ico">
     <Grid>
         <StackPanel>
             <Border BorderBrush="Black" CornerRadius="3" BorderThickness="3" Margin="10">
